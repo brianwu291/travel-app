@@ -12,6 +12,7 @@ const NavBar = () => {
         top: '-1rem',
         left: 0,
         width: '100%',
+        zIndex: 1,
       }}
     >
       <Segment.Group horizontal>
